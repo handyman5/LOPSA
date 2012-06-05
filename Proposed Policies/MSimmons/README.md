@@ -1,4 +1,5 @@
-==Policies proposed by Matt Simmons==
+Policies proposed by Matt Simmons
+=================================
 
 **Harassment Policy** (initiated 2012-05)
 
